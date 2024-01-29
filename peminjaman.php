@@ -53,14 +53,14 @@
   <div class="card-body">
     <h5 class="card-title">C++ Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan C++</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
   <div class="card" style="width: 12rem;">
   <img src="buku6.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">MySQL Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan MySQL</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
 </div>
   </li>
@@ -70,14 +70,14 @@
   <div class="card-body">
     <h5 class="card-title">Pascal Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan Pascal</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
   <div class="card" style="width: 12rem;">
   <img src="buku7.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Java Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan Javascript</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
 </div>
   </li>
@@ -87,14 +87,14 @@
   <div class="card-body">
     <h5 class="card-title">HTML Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan HTML</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
   <div class="card" style="width: 12rem;">
   <img src="buku8.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Bootstrap</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan Bootstrap</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
 </div>
 </li>
@@ -104,14 +104,14 @@
   <div class="card-body">
     <h5 class="card-title">CSS Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan CSS</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
   <div class="card" style="width: 12rem;">
   <img src="buku9.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">OOP Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan OOP</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
 </div>
 </li>
@@ -121,14 +121,14 @@
   <div class="card-body">
     <h5 class="card-title">PHP Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan PHP</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
   <div class="card" style="width: 12rem;">
   <img src="buku10.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Laravel Uncover</h5>
     <p class="card-text">Buku ini berisi tentang penjelasan Laravel</p>
-    <a href="#" class="btn btn-primary">Edit Buku</a>
+    <a href="#" class="btn btn-primary">Lihat Buku</a>
   </div>
 </div>
 </li>
